@@ -7,7 +7,7 @@ This repository showcases various data analytics tasks using different tools —
 
 ---
 
-## Section 0: CSV Cleaning & Exploratory Data Analysis (EDA)
+## Section 1: CSV Cleaning & Exploratory Data Analysis (EDA)
 
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
 **Dataset:** StudentsPerformance.csv
@@ -37,7 +37,7 @@ This repository showcases various data analytics tasks using different tools —
 
 ---
 
-## Section 1: SQL Analysis (SQLite - Chinook Database)
+## Section 2: SQL Analysis (SQLite - Chinook Database)
 
 **Tools Used:** SQLite (SQLiteOnline)
 
@@ -64,7 +64,7 @@ This repository showcases various data analytics tasks using different tools —
 
 ---
 
-## Section 2: Tableau Dashboard - Airbnb NYC Dataset
+## Section 3: Tableau Dashboard - Airbnb NYC Dataset
 
 **Tools Used:** Tableau Public  
 **Dataset:** AB_NYC_2019.csv
@@ -90,7 +90,7 @@ Dashboard is published on Tableau Public.
 
 ---
 
-## Section 3: Excel - Online Retail Dataset (UCI)
+## Section 4: Excel - Online Retail Dataset (UCI)
 
 **Tools Used:** Microsoft Excel  
 **Dataset:** Online Retail (UCI)
@@ -138,20 +138,3 @@ Dashboard is published on Tableau Public.
 │   └── OnlineRetail_Cleaned.xlsx
 └── README.md
 ```
-
----
-
-## Summary
-
-This project demonstrates practical skills in:
-
-- Cleaning and exploring data using Python
-- Writing SQL queries for business analysis
-- Building interactive dashboards in Tableau
-- Performing data cleaning and analysis in Excel
-
-All sections are organized and submitted for review.
-
----
-
-Let me know if you'd like me to create this structure or a `.zip` version for submission.
