@@ -1,8 +1,6 @@
 # Assinment
 ---
 
-# Student Project: Data Analytics Portfolio
-
 This repository showcases various data analytics tasks using different tools — Python (for CSV and EDA), SQL, Tableau, and Excel — based on real-world datasets. Each section covers specific tasks to clean, analyze, and visualize data for business insights.
 
 ---
