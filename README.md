@@ -1,5 +1,4 @@
 # Assinment
-Sure! Here's the plain, professional version of your **README.md** that you can copy and paste directly:
 
 ---
 
