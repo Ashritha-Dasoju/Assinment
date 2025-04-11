@@ -1,10 +1,39 @@
 # Assinment
-
 ---
 
 # Student Project: Data Analytics Portfolio
 
-This repository showcases various data analytics tasks using different tools — SQL, Tableau, and Excel — based on real-world datasets. Each section covers specific tasks to clean, analyze, and visualize data for business insights.
+This repository showcases various data analytics tasks using different tools — Python (for CSV and EDA), SQL, Tableau, and Excel — based on real-world datasets. Each section covers specific tasks to clean, analyze, and visualize data for business insights.
+
+---
+
+## Section 0: CSV Cleaning & Exploratory Data Analysis (EDA)
+
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
+**Dataset:** StudentsPerformance.csv
+
+### Tasks Completed:
+
+1. **Data Cleaning**
+   - Checked and handled missing values
+   - Verified data types and corrected if necessary
+   - Removed duplicates if any
+
+2. **Exploratory Data Analysis**
+   - Distribution plots for numeric features like scores
+   - Count plots for categorical features (gender, lunch, test preparation course)
+   - Correlation heatmap between math, reading, and writing scores
+   - Box plots to identify outliers and analyze score distributions by group
+
+3. **Insights Gathered**
+   - Gender and test preparation impact on performance
+   - Correlation between reading and writing scores
+   - Group-wise performance variation
+
+**Submission Includes:**
+- Cleaned CSV file
+- Python notebook (.ipynb) with all cleaning and visualization steps
+- Output plots saved as images
 
 ---
 
@@ -30,8 +59,8 @@ This repository showcases various data analytics tasks using different tools —
    Extracted month-wise sales for the year 2013 using `strftime()`.
 
 **Submission Includes:**
-- `.sql` file with all 5 queries.
-- Output screenshots for each query result.
+- `.sql` file with all 5 queries
+- Output screenshots for each query result
 
 ---
 
@@ -96,6 +125,10 @@ Dashboard is published on Tableau Public.
 
 ```
 .
+├── CSV_EDA/
+│   ├── StudentsPerformance.csv
+│   ├── student_eda.ipynb
+│   └── plots/
 ├── SQL/
 │   ├── chinook_queries.sql
 │   └── screenshots/
@@ -104,3 +137,21 @@ Dashboard is published on Tableau Public.
 ├── Excel/
 │   └── OnlineRetail_Cleaned.xlsx
 └── README.md
+```
+
+---
+
+## Summary
+
+This project demonstrates practical skills in:
+
+- Cleaning and exploring data using Python
+- Writing SQL queries for business analysis
+- Building interactive dashboards in Tableau
+- Performing data cleaning and analysis in Excel
+
+All sections are organized and submitted for review.
+
+---
+
+Let me know if you'd like me to create this structure or a `.zip` version for submission.
